@@ -6,7 +6,7 @@
 
 
 #### DNS预解析
-* ![DNS预解析](DNS预解析.png, "DNS预解析")
+* ![DNS预解析](DNS预解析.png "DNS预解析")
 
 
 
